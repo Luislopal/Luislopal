@@ -1,8 +1,8 @@
-### Luis López Álvarez
+# Luis López Álvarez
 
-# Grado en Ingeniería de Telecomunicación - UPM
+### Grado en Ingeniería de Telecomunicación - UPM
 
-# Máster en Ingeniería de Redes y Servicios Telemáticos - UPM
+### Máster en Ingeniería de Redes y Servicios Telemáticos - UPM
 
 <!--
 **Luislopal/Luislopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
