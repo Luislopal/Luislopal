@@ -17,12 +17,12 @@
 <h3 align="center">Stats</h3>
 <div align="center" style="display:flex; flex-wrap: wrap; justify-content: space-between;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luislopal&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="luislopal">
-    <img src="https://github-readme-stats.vercel.app/api?username=luislopal&show_icons=true&theme=highcontrast&locale=en" alt="luislopal">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luislopal&show_icons=true&theme=dark&locale=en&layout=compact" alt="luislopal">
+    <img src="https://github-readme-stats.vercel.app/api?username=luislopal&show_icons=true&theme=dark&locale=en" alt="luislopal">
   </div>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luislopal&theme=highcontrast" alt="luislopal">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luislopal&theme=dark" alt="luislopal">
 </div>
 
 <h3 align="center">GitHub Trophies</h3>
