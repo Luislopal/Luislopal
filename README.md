@@ -2,12 +2,12 @@
 <h3 align="center">Graduated in 'Ingeniería en Tecnologías y Servicios de Telecomunicación' (ETSIT - UPM) </h3>
 <h3 align="center">Master's Degree in 'Ingeniería de Redes y Servicios Telemáticos' (ETSIT - UPM) </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luislopal&label=Profile%20views&color=0e75b6&style=flat" alt="luislopal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=luislopal&label=Profile%20views&color=0e75b6&style=flat" alt="luislopal" /> </p>
 
 - 📫 How to reach me **luislopal@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/luislopezalvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luislopezalvarez" height="30" width="40" /></a>
 </p>
 
@@ -25,6 +25,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luislopal&theme=highcontrast" alt="luislopal">
 </div>
 
-<h3 align="left">GitHub Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luislopal" alt="luislopal" /></a> </p>
+<h3 align="center">GitHub Trophies</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luislopal" alt="luislopal" /></a> </p>
 
